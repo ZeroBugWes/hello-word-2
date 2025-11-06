@@ -1,12 +1,12 @@
 {
   "$GMSprite":"",
-  "%Name":"Sprcolisaomorte",
-  "bboxMode":0,
-  "bbox_bottom":22,
-  "bbox_left":3,
-  "bbox_right":25,
-  "bbox_top":0,
-  "collisionKind":1,
+  "%Name":"Sprmorte",
+  "bboxMode":2,
+  "bbox_bottom":21,
+  "bbox_left":4,
+  "bbox_right":24,
+  "bbox_top":6,
+  "collisionKind":0,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"0944732f-9f1c-43d3-bf29-2c3809bca19f","blendMode":0,"displayName":"default","isLocked":false,"name":"0944732f-9f1c-43d3-bf29-2c3809bca19f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprcolisaomorte",
+  "name":"Sprmorte",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Sprcolisaomorte",
+    "%Name":"Sprmorte",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprcolisaomorte",
+    "name":"Sprmorte",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"75ca0d12-4eda-4068-961b-c5554459251e","path":"sprites/Sprcolisaomorte/Sprcolisaomorte.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"75ca0d12-4eda-4068-961b-c5554459251e","path":"sprites/Sprmorte/Sprmorte.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7d714ce1-cff0-407c-826b-9547e87fc97f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

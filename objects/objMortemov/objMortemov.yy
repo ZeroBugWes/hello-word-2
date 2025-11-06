@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Objcoletavel",
+  "%Name":"objMortemov",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Objcoletavel",
+  "name":"objMortemov",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprcoletavel",
-    "path":"sprites/Sprcoletavel/Sprcoletavel.yy",
+    "name":"Sprmortemov",
+    "path":"sprites/Sprmortemov/Sprmortemov.yy",
   },
   "spriteMaskId":null,
   "visible":true,

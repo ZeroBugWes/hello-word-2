@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Objcolisaomorte",
-  "eventList":[],
+  "%Name":"Objmorte",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Objcolisaomorte",
+  "name":"Objmorte",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprcolisaomorte",
-    "path":"sprites/Sprcolisaomorte/Sprcolisaomorte.yy",
+    "name":"Sprmorte",
+    "path":"sprites/Sprmorte/Sprmorte.yy",
   },
   "spriteMaskId":null,
   "visible":true,

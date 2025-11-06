@@ -1,2 +1,2 @@
-coletavel = 3
+coletaveis += 1
 instance_destroy(other)

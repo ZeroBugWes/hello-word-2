@@ -6,13 +6,26 @@ if keyboard_check(vk_down){
 	y+=1
 }
 if keyboard_check(vk_left){		
-	x-=1	
+	x-=1	image_xscale=-1
 }
 if keyboard_check(vk_right){
-	x+= 1	
+	x+= 1	image_xscale = 1
 }
- if keyboard_check(vk_space){
-	 
-room_restart()
-
+if keyboard_check(vk_space){
+	room_restart()
+}
+ if coletaveis = global.quantColetaveis
+ {
+ room_goto_next()
  }
+ 
+ if keyboard_check(vk_anykey)
+ {
+	 sprite_index = SprPlayercorrendo
+ }
+ else
+ {
+	sprite_index = SprPlayer
+ }
+
+
